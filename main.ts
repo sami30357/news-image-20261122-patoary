@@ -1,4 +1,4 @@
-// main.ts — entrypoint for the news-image-20261122 entry.
+// main.ts — entrypoint for the news-image-20261122 v2 entry.
 // The entry is a single image, entry.png, held in this repository.
 // This program copies it to the output directory the harness provides
 // (MAKEFUN_OUTPUT_DIR, or /output), writing exactly the same bytes
